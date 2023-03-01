@@ -1,0 +1,35 @@
+.Author {
+    width: 27%;
+   
+  }
+  
+  .Author img {
+    width: 80%;
+    height: 80%;
+    
+    
+    
+  }
+  
+  
+  .Author .name {
+    display: inline;
+    color: rgb(23, 22, 22);
+    font-weight:bolder;
+    font-size: 15x;
+    
+    
+  }
+  .Author .proffession {
+    color: rgba(23, 22, 22, 0.868);
+    font-weight: bolder;
+    font-size: 7px;
+    
+  }
+  
+  
+  .Author .cover img {
+    border-radius: 100px;
+  }
+ 
+  

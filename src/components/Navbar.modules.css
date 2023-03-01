@@ -1,0 +1,12 @@
+.Navbar{
+   
+    position:relative;
+    
+}
+.Navbar .image{
+    margin-right: 400px;
+
+}
+.Navbar img{
+    width: 50%;
+}
